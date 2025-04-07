@@ -1,5 +1,5 @@
 
-# 🌐 My React + TypeScript App
+# 🌐 Sahelha Platform
 
 [![React](https://img.shields.io/badge/React-18.x-blue?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)](https://www.typescriptlang.org/)
